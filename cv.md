@@ -1,17 +1,34 @@
-#Lihanov Alexey
-##Desired position: junior frontend developer
+# Lihanov Alexey
 
 
-##Profile 
+![My foto](https://sun9-north.userapi.com/sun9-82/s/v1/if1/QVOOXDe8wrjPdPUQy8ohOnXPViaAjHB1pSscFj_nRdnFIyPentrEY-JWIImM44OUWTPKJ0BM.jpg?size=2560x1707&quality=96&type=album)
 
 
-###Address: Russia, Murino 
-###Email: smit123@mail.ru
-###Facebook: https://m.me/leks.lihan
-###Vk.com: https://vk.com/lichanov88
-##Summary 
+
+
+
+## Desired position: junior frontend developer
+
+
+## Profile 
+
+
+### Address: Russia, Murino 
+### Email: smit123@mail.ru
+### Facebook: https://m.me/leks.lihan
+### Vk.com: https://vk.com/lichanov88
+### Discord: Alexey#0305
+### telephone: +79502252368
+
+## Summary 
+
+
 I am taking a course on frontend from rs school
-##Experience 
+
+
+## Experience 
+
+
 * Counselor - Children's camps (Tyumen region), 2007 - 2009(
 summers)
 * Teacher of history and social studies at the correctional school "Krasnye Zori" (St. Petersburg) - 2012
@@ -25,11 +42,11 @@ summers)
 * Clinical research volunteer - 2019 - 2022.
 * Tutor in history and social studies 2015 - 2022.
 
-##Education
+## Education
 
 
-###Higher education:
-* RGPU them. A.I. Herzen
+### Higher education:
+* Herzen University
 Diploma qualification: Master of Social and Economic Education, history teacher
 Years of study: 2010 - 2012
 
@@ -39,25 +56,25 @@ Diploma qualification: Bachelor of Social and Economic Education, history teache
 Years of study: 2006 - 2010
 
 
-###Secondary vocational education:
+### Secondary vocational education:
 
 * Tobolsk College of Arts and Culture. A.A. Alyabyeva, specialization "Social and cultural activities and folk art", specialization "Theatrical creativity".
 Diploma qualification: Head of the creative team, teacher.
 
 
-###Secondary education:
+### Secondary education:
 
 * School (Tyumen region, KhMAO, Khanty-Mansiysk region,Batovo).
 Graduation year: 2006.
 
 
-###Post higher education:
+### Post higher education:
 * Postgraduate student of the third year of study, St. Petersburg State University of Economics.
 Department of History and Political Science
 Years of study: 2012 - 2015
 
 
-Skills
+## Skills
 * Communication — 8/10
 * Self-Motivation — 5/10
 * Leadership — 6/10
