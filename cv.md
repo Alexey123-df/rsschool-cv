@@ -92,5 +92,5 @@ Years of study: 2012 - 2015
 ## Languages: 
 
 
-Russian - Native
-English - A2
+* Russian - Native
+* English - A2
