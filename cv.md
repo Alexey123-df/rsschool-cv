@@ -5,8 +5,6 @@
 
 
 
-
-
 ## Desired position: junior frontend developer
 
 
@@ -83,3 +81,16 @@ Years of study: 2012 - 2015
 * Problem Solving — 7/10 
 * Decisiveness — 6/10
 * Flexibility — 6/10
+
+
+## Code example:
+
+
+`console.log(Hello, world!)`
+
+
+## Languages: 
+
+
+Russian - Native
+English - A2
